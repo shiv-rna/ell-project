@@ -48,3 +48,11 @@ Iterative Improvement: The final revision step allows for further refinement of 
 
 This compositional approach to prompt engineering enables us to break down complex tasks into smaller, more manageable steps. It also allows us to apply different strategies (like varying temperature or using different models) at each stage of the process, giving us fine-grained control over the output generation.
 """
+
+
+"""
+Observation:
+
+ when draft is selected by the choose_the_best_draft  and it's output is passed on to the write write_a_really_good_story . It doesn't really pass the content of the best draft only the review of it .
+ 
+"""
